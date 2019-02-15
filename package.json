@@ -1,0 +1,8 @@
+{
+  "name": "compiler-demo",
+  "description": "简单的编译器实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
